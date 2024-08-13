@@ -4,7 +4,7 @@
 
 Most markdown for the content of the website is in `/content`. Each webpage has its own directory. Each of these directories contain a single `index.md` that determines whether the webpage's content is based on a single markdown file (the body of `index.md`) or is assembled from a series of "widgets" that are specified by seperate markdown files in the same directory. The order of widgets as they will appear on the rendered webpage is specified by `weight:` in the frontmatter of each of these files. Widgets can be hidden by setting `active: false` in its frontmatter.
 
-Images and movies can be included using html within the body of each page or included by setting attributes specific to a particular widget. With some exceptions, images are stored in `/assets/media`. For instructions on how to reference media, see [here](https://wowchemy.com/docs/content/writing-markdown-latex/#images).
+Images and movies can be included using html within the body of each page or included by setting attributes specific to a particular widget. With some exceptions, images are stored in `/assets/media`. For instructions on how to reference media, see [here](https://docs.hugoblox.com/reference/markdown/#images).
 
 ## The special meanings of main and gh-pages branches
 
