@@ -13,7 +13,7 @@ design:
   columns: '1'
   background:
     image: background.png
-    image_darken: 0.4
+    image_darken: 0.2
     image_parallax: false
     image_position: center
     image_size: cover
