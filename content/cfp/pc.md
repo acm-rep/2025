@@ -12,6 +12,7 @@ design:
 
 ### Program Chairs
 Ashish Gehani (SRI)
+
 Khalid Belhajjame (University Paris - Dauphine)
 
 ### Program Committee
