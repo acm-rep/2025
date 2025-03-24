@@ -6,10 +6,7 @@ title: "Important Dates"
 subtitle: ""
 active: true
 ---
-<span style=color:grey>Poster submissions: May 3, 2024, 23:59 AOE</span>  
-<span style=color:grey>Notification of acceptance: May 10, 2024</span>  
-<span style=color:grey>Early-bird registration close: <s>May 31</s> June 8, 2024</span>  
-<span style=color:grey>Registration close: <s>June 8</s> June 20, 2024</span>  
-<span style=color:grey>Conference:  June 18-20, 2024</span>  
-
-
+<span style=color:grey>Poster Submission Deadline: April 26, 2025 (23:59 AoE)</span>  
+<span style=color:grey>Notification of Acceptance: June 23, 2025</span>  
+<span style=color:grey>Camera-Ready Submission Deadline: July 14, 2025</span>  
+<span style=color:grey>Conference Dates: July 29–31, 2025</span>  
