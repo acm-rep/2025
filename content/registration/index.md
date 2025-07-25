@@ -35,7 +35,7 @@ Conference: July 29-31, 2025
 # Terms and Conditions
 
 ## Authors
-For each article accepted at ACM REP 2025, it is required to have at least one of the authors registered at the conference, with the commitment to present it at the conference - online presentations are accepted but require full on site registration as well. Paper without a full registration will be withdrawn from the program and the proceedings. The deadline for author registration isJuly 15, 2025.
+For each article accepted at ACM REP 2025, it is required to have at least one of the authors registered at the conference, with the commitment to present it at the conference - online presentations are accepted but require full on site registration as well. Paper without a full registration will be withdrawn from the program and the proceedings. The deadline for author registration is July 15, 2025.
 
 ## Students
 Student fees are applicable only to full-time students. Students must be able to provide a proof of their student status (student ID card or certificate).
