@@ -77,7 +77,7 @@ Registrations will be online only and will close on July 25, 2025. &lt;strong>On
 &lt;/div>
 &lt;ul class="cta-group">
 &lt;li>
-&lt;a href="https://web.cvent.com/event/2da7dd28-2938-4ea7-b3e4-4a27b6c3c2e8/summary" class="btn btn-primary px-3 py-3">Register&lt;/a>
+&lt;a href="https://web.cvent.com/event/2da7dd28-2938-4ea7-b3e4-4a27b6c3c2e8/summary" class="btn btn-primary px-3 py-3">Registration closed&lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h1 id="registration-fees">Registration fees&lt;/h1>
@@ -95,8 +95,8 @@ groups to contact us.&lt;/p>
 &lt;h1 id="important-dates">Important Dates&lt;/h1>
 &lt;p>&lt;span style=color:grey>Early-bird registration close: July 7&lt;/span>&lt;br>
 &lt;span style=color:grey>Author registration close: July 15&lt;/span>&lt;br>
-Registration close: &lt;span style=color:blue;font-weight:bold>July 25&lt;/span>&lt;br>
-Conference: July 29-31, 2025&lt;/p>
+&lt;span style=color:grey>Registration close: July 25&lt;/span>&lt;br>
+Conference: &lt;span style=color:blue;font-weight:bold>July 29-31, 2025&lt;/span>&lt;/p>
 &lt;h1 id="terms-and-conditions">Terms and Conditions&lt;/h1>
 &lt;h2 id="authors">Authors&lt;/h2>
 &lt;p>For each article accepted at ACM REP 2025, it is required to have at least one of the authors registered at the conference, with the commitment to present it at the conference - online presentations are accepted but require full on site registration as well. Paper without a full registration will be withdrawn from the program and the proceedings. The deadline for author registration is July 15, 2025.&lt;/p>
