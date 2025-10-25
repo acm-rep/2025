@@ -27,11 +27,9 @@ advanced:
   css_class:
 ---
 
-{{< cta cta_text="Keynotes" cta_link="/2025/keynotes" >}}
-{{< cta cta_text="Tutorials" cta_link="/2025/tutorials" >}}
+{{< cta cta_text="Proceedings" cta_link="https://dl.acm.org/doi/proceedings/10.1145/3736731" >}}
+{{< cta cta_text="Agenda (with slides)" cta_link="/2025/agenda" >}}
 {{< cta cta_text="Posters" cta_link="/2025/posters" >}}
-{{< cta cta_text="Agenda" cta_link="/2025/agenda" >}}
-{{< cta cta_text="Slides" cta_link="https://drive.google.com/drive/folders/167M2Dk3Xi4I9-vph-doooLTvKpAfHTyz?usp=sharing" cta_new_tab="false" >}}
 
 Sponsors
 
